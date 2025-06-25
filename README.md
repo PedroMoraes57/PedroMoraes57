@@ -71,6 +71,6 @@ Mais um exemplo — pode ser algo feito no curso, desafio técnico ou projeto pe
 ---
 
 <p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2pqxSrLtDco1LlCvvihp2Y&ust=1750957452222000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLik4JuHjY4DFQAAAAAdAAAAABAE" alt="Gatinho programando" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U2Mzd0Z2tpY3cyaXJpNnJkd3Vybzlzd3JjZnFvODBqc3hnbWpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Gatinho programando" width="300" />
 </p>
 
