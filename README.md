@@ -6,12 +6,11 @@ Aqui você vai encontrar meus projetos, aprendizados e um pouco da minha jornada
 Fique à vontade para explorar, acompanhar ou trocar uma ideia. É sempre bom compartilhar conhecimento!
 </p>
 <hr>
-<p>
-## 🧑‍💻 Sobre mim
-Olá! Me chamo **Pedro Henrique Ferreira Moraes**, atualmente estou no último ano do curso de **Análise e Desenvolvimento de Sistemas** pelo **SENAI**.
-Sou apaixonado por tecnologia, desenvolvimento de software e estou sempre em busca de novos aprendizados e desafios que me façam evoluir como profissional e como pessoa.
-Tenho interesse tanto no **frontend**, quanto no **backend**, e gosto de trabalhar com tecnologias modernas, sempre buscando escrever código limpo, funcional e com propósito.
-</p>
+🧑‍💻 Sobre mim
+Olá! Me chamo **Pedro Henrique Ferreira Moraes** e estou cursando o **último ano de Análise e Desenvolvimento de Sistemas** no **SENAI**.
+Sou apaixonado por tecnologia e desenvolvimento de software, e estou sempre em busca de novos conhecimentos, experiências e desafios que me façam crescer como profissional.
+Tenho interesse tanto no **frontend** quanto no **backend**, e gosto de aprender novas ferramentas, linguagens e boas práticas para construir soluções eficientes e bem estruturadas.
+
 
 ---
 
