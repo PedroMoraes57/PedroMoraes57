@@ -61,7 +61,7 @@ Projeto de página funcional com banco de dados e Django feito no curso Desenvol
 ---
 
 ### 📌 [Portal de Cursos SENAI](https://github.com/PedroMoraes57/Cursos-Senai)
-Simulaçõa de plataforma de cursos para o SENAI, feito com django e banco de dados.
+Simulação de plataforma de cursos funcional para o SENAI, feito com django e banco de dados.
 <b>Tecnologias:</b> PYTHON, DJANGO, MYSQL, HTML, CSS, JS
 
 ---
