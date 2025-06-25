@@ -1,7 +1,16 @@
 <h1>🖥️ Pedro Henrique Ferreira Moraes - Desenvolvedor Front-End em formação</h1>
 
 <p>
-Desenvolvedor em constante evolução, estudante da rede SENAI no segundo ano do curso Análise e Desenvolvimento de Sistemas, sempre tentando melhorar e em busca de novas oportunidades.
+👋 Seja bem-vindo(a) ao meu GitHub!<br>
+Aqui você vai encontrar meus projetos, aprendizados e um pouco da minha jornada no mundo do desenvolvimento.<br>
+Fique à vontade para explorar, acompanhar ou trocar uma ideia. É sempre bom compartilhar conhecimento!
+</p>
+
+<p>
+## 🧑‍💻 Sobre mim
+Olá! Me chamo **Pedro Henrique Ferreira Moraes**, atualmente estou no último ano do curso de **Análise e Desenvolvimento de Sistemas** pelo **SENAI**.
+Sou apaixonado por tecnologia, desenvolvimento de software e estou sempre em busca de novos aprendizados e desafios que me façam evoluir como profissional e como pessoa.
+Tenho interesse tanto no **frontend**, quanto no **backend**, e gosto de trabalhar com tecnologias modernas, sempre buscando escrever código limpo, funcional e com propósito.
 </p>
 
 ---
