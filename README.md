@@ -41,7 +41,6 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
 </p>
 
-
 ---
 
 ## 📫 Contatos
@@ -54,6 +53,21 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 ## 🛠️ Repositórios em Destaque
 
 Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas. Fique à vontade para explorar e dar um ⭐!
+### 📌 [Nome-do-Projeto-1](https://github.com/seuusuario/Nome-do-Projeto-1)
+Descrição rápida do que o projeto faz, tecnologias usadas ou objetivo principal.  
+<b>Tecnologias:</b> React, JavaScript, CSS
+
+---
+
+### 📌 [Nome-do-Projeto-2](https://github.com/seuusuario/Nome-do-Projeto-2)
+Breve descrição do segundo projeto, como um CRUD, API ou integração com banco de dados.  
+<b>Tecnologias:</b> Python, Django, MySQL
+
+---
+
+### 📌 [Nome-do-Projeto-3](https://github.com/seuusuario/Nome-do-Projeto-3)
+Mais um exemplo — pode ser algo feito no curso, desafio técnico ou projeto pessoal.  
+<b>Tecnologias:</b> HTML, CSS, JavaScript
 
 ---
 
