@@ -71,7 +71,7 @@ Mais um exemplo — pode ser algo feito no curso, desafio técnico ou projeto pe
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media.giphy.com/media/sNx3P6pUoX6i7SqTNY/giphy.gif)" alt="Joguinho animado" width="300" />
+  <img src="[[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media.giphy.com/media/sNx3P6pUoX6i7SqTNY/giphy.gif)](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)" alt="Joguinho animado" width="300" />
 </p>
 
 <p align="center">
