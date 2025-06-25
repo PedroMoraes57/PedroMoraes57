@@ -14,7 +14,7 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 
 ## 🚀 Tecnologias e Especialidades
 
-### 🧪 Linguagens
+### Linguagens:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -22,18 +22,18 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </p>
 
-### 🧰 Frameworks & Bibliotecas
+### Frameworks & Bibliotecas:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
 </p>
 
-### 🗃️ Banco de Dados
+### Banco de Dados:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
-### 🛠️ Ferramentas e IDEs
+### Ferramentas e IDEs:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
@@ -53,7 +53,7 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 ## 🛠️ Repositórios em Destaque
 
 Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas. Fique à vontade para explorar e dar um ⭐!
-### 📌 [Nome-do-Projeto-1](https://github.com/seuusuario/Nome-do-Projeto-1)
+### 📌 [Atividades HTML)
 Descrição rápida do que o projeto faz, tecnologias usadas ou objetivo principal.  
 <b>Tecnologias:</b> React, JavaScript, CSS
 
