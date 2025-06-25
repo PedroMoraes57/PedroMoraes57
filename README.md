@@ -56,19 +56,16 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas!
 ### 📌 [FoodTrunks](https://github.com/PedroMoraes57/FoodTrunks)
 Projeto de página funcional com banco de dados e Django feito no curso Desenvolvimento de Sistemas.
-<b>Tecnologias:</b> HTML, CSS, JS, DJANGO, MYSQL
+<b>Tecnologias:</b> HTML, CSS, JS, DJANGO, MYSQL, PYTHON
 
 ---
 
-### 📌 [Nome-do-Projeto-2](https://github.com/seuusuario/Nome-do-Projeto-2)
-Breve descrição do segundo projeto, como um CRUD, API ou integração com banco de dados.  
-<b>Tecnologias:</b> Python, Django, MySQL
+### 📌 [Portal de Cursos SENAI](https://github.com/PedroMoraes57/Cursos-Senai)
+Simulaçõa de plataforma de cursos para o SENAI, feito com django e banco de dados.
+<b>Tecnologias:</b> PYTHON, DJANGO, MYSQL, HTML, CSS, JS
 
 ---
 
-### 📌 [Nome-do-Projeto-3](https://github.com/seuusuario/Nome-do-Projeto-3)
-Mais um exemplo — pode ser algo feito no curso, desafio técnico ou projeto pessoal.  
-<b>Tecnologias:</b> HTML, CSS, JavaScript
 
 ---
 
