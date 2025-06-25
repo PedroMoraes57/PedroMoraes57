@@ -70,9 +70,10 @@ Mais um exemplo — pode ser algo feito no curso, desafio técnico ou projeto pe
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" alt="Pinguim Programando" width="700" />
+<p>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatinho programando" width="300" />
 </p>
+
 
 <p align="center">
   Obrigado por visitar meu perfil! Vamos codar! 🚀
