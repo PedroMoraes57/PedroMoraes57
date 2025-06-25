@@ -54,7 +54,7 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 ## 🛠️ Repositórios em Destaque
 
 Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas!
-### 📌 [FoodTrunks)
+### 📌 [FoodTrunks](https://github.com/PedroMoraes57/FoodTrunks)
 Projeto de página funcional com banco de dados e Django feito no curso Desenvolvimento de Sistemas.
 <b>Tecnologias:</b> HTML, CSS, JS, DJANGO, MYSQL
 
