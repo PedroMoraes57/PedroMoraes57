@@ -51,7 +51,7 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 
 ## 🛠️ Repositórios em Destaque
 
-Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas. Fique à vontade para explorar e dar um ⭐!
+Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas!
 ### 📌 [Atividades HTML)
 Descrição rápida do que o projeto faz, tecnologias usadas ou objetivo principal.  
 <b>Tecnologias:</b> React, JavaScript, CSS
@@ -69,6 +69,10 @@ Mais um exemplo — pode ser algo feito no curso, desafio técnico ou projeto pe
 <b>Tecnologias:</b> HTML, CSS, JavaScript
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Joguinho animado" width="300" />
+</p>
 
 <p align="center">
   Obrigado por visitar meu perfil! Vamos codar! 🚀
