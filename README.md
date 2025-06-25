@@ -45,8 +45,8 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 
 ## 📫 Contatos
 
-- 📧 **Gmail:** [pedroferreira5711@gmail.com](mailto:pedroferreira5711@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/pedro-moraes-31526233a/](https://linkedin.com/in/pedro-moraes-31526233a/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroferreira5711@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-moraes-31526233a/)
 
 ---
 
