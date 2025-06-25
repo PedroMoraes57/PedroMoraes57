@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Pedro Moraes! 👋</h1>
+<h1>🖥️ Pedro Henrique Ferreira Moraes - Desenvolvedor Front-End em formação</h1>
 
-<p align="center">
+<p>
 Desenvolvedor em constante evolução, estudante da rede SENAI no segundo ano do curso Análise e Desenvolvimento de Sistemas, sempre tentando melhorar e em busca de novas oportunidades.
 </p>
 
