@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Pedro Moraes! 👋</h1>
 
-<!--
-**PedroMoraes57/PedroMoraes57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedor Full Stack em constante evolução.<br>
+Apaixonado por tecnologia, código limpo e soluções criativas.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Especialidades
+
+- 💻 **Frontend:** JavaScript, HTML5, CSS3, React.js  
+- ⚙️ **Backend:** Python, Django  
+- 🗄️ **Banco de Dados:** MySQL  
+- 🧠 **Outros conhecimentos:** APIs REST, Git/GitHub, Responsividade e Acessibilidade
+
+---
+
+## 📫 Contato
+
+- 📧 **Gmail:** [seuemail@gmail.com](mailto:seuemail@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)  
+
+---
+
+## 🛠️ Repositórios em Destaque
+
+Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas. Fique à vontade para explorar e dar um ⭐!
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! Vamos codar! 🚀
+</p>
