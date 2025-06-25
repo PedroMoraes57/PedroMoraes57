@@ -5,7 +5,7 @@
 Aqui você vai encontrar meus projetos, aprendizados e um pouco da minha jornada no mundo do desenvolvimento.<br>
 Fique à vontade para explorar, acompanhar ou trocar uma ideia. É sempre bom compartilhar conhecimento!
 </p>
-
+<hr>
 <p>
 ## 🧑‍💻 Sobre mim
 Olá! Me chamo **Pedro Henrique Ferreira Moraes**, atualmente estou no último ano do curso de **Análise e Desenvolvimento de Sistemas** pelo **SENAI**.
