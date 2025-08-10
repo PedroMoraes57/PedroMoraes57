@@ -66,6 +66,9 @@ Simulação de plataforma de cursos funcional para o SENAI, feito com django e b
 
 ---
 
+### 📌 [CRUD de Máquinas SENAI](https://github.com/PedroMoraes57/DJMaquinas)
+Aplicação web em Django para cadastrar colaboradores e gerenciar máquinas vinculadas a cada um, com listagem, edição e exclusão.
+<b>Tecnologias:</b> PYTHON, DJANGO, SQLite, HTML, CSS
 
 ---
 
