@@ -27,7 +27,7 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 ### Banco de Dados:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
 </p>
 
 ### Ferramentas e IDEs:
