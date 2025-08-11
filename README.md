@@ -33,7 +33,7 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 ### Ferramentas e IDEs:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-plain.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/your-repo/path/github-blue.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" alt="Node.js"/>
