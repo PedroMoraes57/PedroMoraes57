@@ -51,6 +51,12 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 ## 🛠️ Repositórios em Destaque
 
 Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas!
+### 📌 [SENAI AGILE](https://github.com/PedroMoraes57/SENAI-AGILE)
+SENAI Agile é um PWA feito com Django que permite acesso a cursos, notícias e funcionalidades de matrícula com suporte offline e experiência de app no navegador.
+<b>Tecnologias:</b> HTML, CSS, JS, DJANGO, SQLITE, PYTHON
+
+---
+
 ### 📌 [FoodTrunks](https://github.com/PedroMoraes57/FoodTrunks)
 Projeto de página funcional com banco de dados e Django feito no curso Desenvolvimento de Sistemas.
 <b>Tecnologias:</b> HTML, CSS, JS, DJANGO, MYSQL, PYTHON
@@ -65,7 +71,7 @@ Simulação de plataforma de cursos funcional para o SENAI, feito com django e b
 
 ### 📌 [CRUD de Máquinas SENAI](https://github.com/PedroMoraes57/DJMaquinas)
 Aplicação web em Django para cadastrar colaboradores e gerenciar máquinas vinculadas a cada um, com listagem, edição e exclusão.
-<b>Tecnologias:</b> PYTHON, DJANGO, SQLite, HTML, CSS
+<b>Tecnologias:</b> PYTHON, DJANGO, SQLITE, HTML, CSS
 
 ---
 
