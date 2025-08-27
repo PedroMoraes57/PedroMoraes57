@@ -51,6 +51,12 @@ Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>
 ## 🛠️ Repositórios em Destaque
 
 Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas!
+### 📌 [Conectando o Mundo - Api's](https://github.com/PedroMoraes57/Integra-o-API-Paises-e-API-REST)
+Conectando o mundo é uma aplicação web para expor informações sobre um país, permitir cadastro de usuários e integrar-se com outras equipes por meio de APIs REST.
+<b>Tecnologias:</b> HTML, CSS, JS, DJANGO, SQLITE, PYTHON
+
+---
+
 ### 📌 [SENAI AGILE](https://github.com/PedroMoraes57/SENAI-AGILE)
 SENAI Agile é um PWA feito com Django que permite acesso a cursos, notícias e funcionalidades de matrícula com suporte offline e experiência de app no navegador.
 <b>Tecnologias:</b> HTML, CSS, JS, DJANGO, SQLITE, PYTHON
