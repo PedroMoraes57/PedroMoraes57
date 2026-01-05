@@ -1,4 +1,4 @@
-<h1>🖥️ Pedro Henrique Ferreira Moraes - Desenvolvedor Front-End em formação</h1>
+<h1>🖥️ Pedro Henrique Ferreira Moraes - Desenvolvedor Web Full-Stack</h1>
 
 <h3>👋 Seja bem-vindo(a) ao meu GitHub!</h3>
 <p>
@@ -7,8 +7,10 @@ Fique à vontade para explorar, acompanhar ou trocar uma ideia. É sempre bom co
 </p>
 
 <h3>🧑‍💻 Sobre mim</h3>
-<p>Olá! Me chamo <b>Pedro Henrique Ferreira Moraes</b>, estou no <b>último ano de Análise e Desenvolvimento de Sistemas</b> no <b>SENAI</b>.
-Sou entusiasta da tecnologia, gosto de atuar no <b>frontend</b> e <b>backend</b>, e estou sempre buscando aprender e evoluir na área.</p>
+<p>Olá! Me chamo <b>Pedro Henrique Ferreira Moraes</b>, sou formado em <b>Análise e Desenvolvimento de Sistemas</b> pelo <b>SENAI</b>.</p>
+<p>Sou entusiasta da tecnologia e atuo tanto no <b>frontend</b> quanto no <b>backend</b>, com foco em desenvolvimento web. Tenho interesse em criar soluções bem estruturadas, funcionais e com código limpo.</p>
+<p>Estou sempre buscando aprender novas tecnologias, evoluir como desenvolvedor e encarar desafios que impulsionem meu crescimento profissional.</p>
+
 
 ---
 
