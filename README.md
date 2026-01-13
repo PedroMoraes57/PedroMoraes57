@@ -52,6 +52,13 @@ Fique à vontade para explorar, acompanhar ou trocar uma ideia. É sempre bom co
 ## 🛠️ Repositórios em Destaque
 
 Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas!
+
+### 📌 [D.O.C - Digitalização, Organização e Classificação de Documentos](https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-)
+Sistem web em Django para digitalizar, organizar e classificar documentos com OCR e Inteligência Artifical para depois buscar esses documentos com NLP.
+<b>Tecnologias:</b> PYTHON, DJANGO, MYSQL, HTML, CSS, JS, NLP, OCR, GEMINI API, APIs
+
+---
+
 ### 📌 [Conectando o Mundo - Api's](https://github.com/PedroMoraes57/Integra-o-API-Paises-e-API-REST)
 Conectando o mundo é uma aplicação web para expor informações sobre um país, permitir cadastro de usuários e integrar-se com outras equipes por meio de APIs REST.
 <b>Tecnologias:</b> HTML, CSS, JS, DJANGO, SQLITE, PYTHON
@@ -81,10 +88,6 @@ Aplicação web em Django para cadastrar colaboradores e gerenciar máquinas vin
 <b>Tecnologias:</b> PYTHON, DJANGO, SQLITE, HTML, CSS
 
 ---
-
-### 📌 [CRUD de Máquinas SENAI](https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-)
-Sistem web em Django para digitalizar, organizar e classificar documentos com OCR e Inteligência Artifical para depois buscar esses documentos com NLP.
-<b>Tecnologias:</b> PYTHON, DJANGO, MYSQL, HTML, CSS, JS, NLP, OCR, GEMINI API, APIs
 
 <p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U2Mzd0Z2tpY3cyaXJpNnJkd3Vybzlzd3JjZnFvODBqc3hnbWpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Gatinho programando" width="300" />
