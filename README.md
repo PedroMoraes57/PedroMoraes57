@@ -82,6 +82,10 @@ Aplicação web em Django para cadastrar colaboradores e gerenciar máquinas vin
 
 ---
 
+### 📌 [CRUD de Máquinas SENAI](https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-)
+Sistem web em Django para digitalizar, organizar e classificar documentos com OCR e Inteligência Artifical para depois buscar esses documentos com NLP.
+<b>Tecnologias:</b> PYTHON, DJANGO, MYSQL, HTML, CSS, JS, NLP, OCR, GEMINI API, APIs
+
 <p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U2Mzd0Z2tpY3cyaXJpNnJkd3Vybzlzd3JjZnFvODBqc3hnbWpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Gatinho programando" width="300" />
 </p>
