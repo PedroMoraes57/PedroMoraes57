@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Web Full-Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%7C+Django+%7C+React;Machine+Learning+%26+Computer+Vision;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%7C+Django+%7C+React;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 </div>
 
