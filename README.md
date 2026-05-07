@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 Olá! Me chamo **Pedro Henrique Ferreira Moraes** e sou formado em  
-**Análise e Desenvolvimento de Sistemas pelo SENAI**.
+**Análise e Desenvolvimento de Sistemas pelo SENAI** e atualmente me encontro cursando Ciência da Computação na **UNIP**.
 
 Sou apaixonado por tecnologia e atuo tanto no **frontend** quanto no **backend**, com foco no desenvolvimento web moderno.
 
