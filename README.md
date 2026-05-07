@@ -1,98 +1,136 @@
-<h1>🖥️ Pedro Henrique Ferreira Moraes - Desenvolvedor Web Full-Stack</h1>
+<h1 align="center">💻 Pedro Henrique Ferreira Moraes</h1>
+<h3 align="center">Desenvolvedor Web Full-Stack</h3>
 
-<h3>👋 Seja bem-vindo(a) ao meu GitHub!</h3>
-<p>
-Aqui você vai encontrar meus projetos, aprendizados e um pouco da minha jornada no mundo do desenvolvimento.<br>
-Fique à vontade para explorar, acompanhar ou trocar uma ideia. É sempre bom compartilhar conhecimento!
+<p align="center">
+  Desenvolvendo aplicações web modernas, funcionais e bem estruturadas.<br>
+  Focado em Front-end, Back-end e soluções com Inteligência Artificial.
 </p>
-
-<h3>🧑‍💻 Sobre mim</h3>
-<p>Olá! Me chamo <b>Pedro Henrique Ferreira Moraes</b>, sou formado em <b>Análise e Desenvolvimento de Sistemas</b> pelo <b>SENAI</b>.</p>
-<p>Sou entusiasta da tecnologia e atuo tanto no <b>frontend</b> quanto no <b>backend</b>, com foco em desenvolvimento web. Tenho interesse em criar soluções bem estruturadas, funcionais e com código limpo.</p>
-<p>Estou sempre buscando aprender novas tecnologias, evoluir como desenvolvedor e encarar desafios que impulsionem meu crescimento profissional.</p>
-
 
 ---
 
-## 🚀 Tecnologias e Especialidades
+## 🚀 Sobre Mim
 
-### Linguagens & Desenvolvimento Web:
+Olá! Me chamo **Pedro Henrique Ferreira Moraes** e sou formado em  
+**Análise e Desenvolvimento de Sistemas pelo SENAI**.
+
+Sou apaixonado por tecnologia e atuo tanto no **frontend** quanto no **backend**, com foco no desenvolvimento web moderno.
+
+Gosto de criar soluções organizadas, funcionais e escaláveis, sempre buscando evoluir tecnicamente e aprender novas tecnologias.
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+## 💻 Desenvolvimento Web
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
 
-### Banco de Dados:
+---
+
+## 🗄️ Banco de Dados
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
 </p>
 
-### Ferramentas e IDEs:
+---
+
+## ⚙️ Ferramentas & IDEs
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="45" />
 </p>
 
+---
+
+# 📌 Projetos em Destaque
+
+
+## 📄 D.O.C - Digitalização, Organização e Classificação de Documentos
+Sistema web em Django para digitalização, organização e classificação de documentos com OCR e Inteligência Artificial.
+
+### 🔧 Tecnologias:
+`Python` `Django` `MySQL` `HTML` `CSS` `JavaScript` `OCR` `NLP` `Gemini API`
+
+🔗 https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-
 
 ---
 
-## 📫 Contatos
+## 🍃 ReuseAI - Sustentabilidade
+Aplicação web com inteligência artificial para detectar o descarte corretos de objetos.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:pedroferreira5711@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-moraes-31526233a/)
+### 🔧 Tecnologias:
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` `TypeScript` `React` `Tailwind CSS` `Machine Learning` `APIs`
+
+🔗 https://github.com/PedroMoraes57/Reuse-Ai
+
+---
+## 🌍 Conectando o Mundo - APIs
+Aplicação web utilizando a API countries para buscar informações de todos os paises do mundo.
+
+### 🔧 Tecnologias:
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` `APIs`
+
+🔗 https://github.com/PedroMoraes57/Integra-o-API-Paises-e-API-REST
 
 ---
 
-## 🛠️ Repositórios em Destaque
+## 📱 SENAI AGILE
+PWA desenvolvido com Django com suporte offline e experiência de aplicativo no navegador.
 
-Aqui você encontra meus principais projetos, desde desafios técnicos até aplicações completas!
+### 🔧 Tecnologias:
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
 
-### 📌 [D.O.C - Digitalização, Organização e Classificação de Documentos](https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-)
-Sistem web em Django para digitalizar, organizar e classificar documentos com OCR e Inteligência Artifical para depois buscar esses documentos com NLP.
-<b>Tecnologias:</b> PYTHON, DJANGO, MYSQL, HTML, CSS, JS, NLP, OCR, GEMINI API, APIs
-
----
-
-### 📌 [Conectando o Mundo - Api's](https://github.com/PedroMoraes57/Integra-o-API-Paises-e-API-REST)
-Conectando o mundo é uma aplicação web para expor informações sobre um país, permitir cadastro de usuários e integrar-se com outras equipes por meio de APIs REST.
-<b>Tecnologias:</b> HTML, CSS, JS, DJANGO, SQLITE, PYTHON
+🔗 https://github.com/PedroMoraes57/SENAI-AGILE
 
 ---
 
-### 📌 [SENAI AGILE](https://github.com/PedroMoraes57/SENAI-AGILE)
-SENAI Agile é um PWA feito com Django que permite acesso a cursos, notícias e funcionalidades de matrícula com suporte offline e experiência de app no navegador.
-<b>Tecnologias:</b> HTML, CSS, JS, DJANGO, SQLITE, PYTHON
+## 🏭 CRUD de Máquinas SENAI
+Aplicação web para gerenciamento de colaboradores e máquinas vinculadas.
+
+### 🔧 Tecnologias:
+`Python` `Django` `SQLite` `HTML` `CSS`
+
+🔗 https://github.com/PedroMoraes57/DJMaquinas
 
 ---
 
-### 📌 [FoodTrunks](https://github.com/PedroMoraes57/FoodTrunks)
-Projeto de página funcional com banco de dados e Django feito no curso Desenvolvimento de Sistemas.
-<b>Tecnologias:</b> HTML, CSS, JS, DJANGO, MYSQL, PYTHON
+# 📫 Contato
 
----
+<p align="left">
 
-### 📌 [Portal de Cursos SENAI](https://github.com/PedroMoraes57/Cursos-Senai)
-Simulação de plataforma de cursos funcional para o SENAI, feito com django e banco de dados.
-<b>Tecnologias:</b> PYTHON, DJANGO, MYSQL, HTML, CSS, JS
+<a href="mailto:pedroferreira5711@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://linkedin.com/in/pedro-moraes-31526233a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 📌 [CRUD de Máquinas SENAI](https://github.com/PedroMoraes57/DJMaquinas)
-Aplicação web em Django para cadastrar colaboradores e gerenciar máquinas vinculadas a cada um, com listagem, edição e exclusão.
-<b>Tecnologias:</b> PYTHON, DJANGO, SQLITE, HTML, CSS
-
----
-
-<p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U2Mzd0Z2tpY3cyaXJpNnJkd3Vybzlzd3JjZnFvODBqc3hnbWpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Gatinho programando" width="300" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U2Mzd0Z2tpY3cyaXJpNnJkd3Vybzlzd3JjZnFvODBqc3hnbWpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  🚀 Sempre aprendendo, construindo e evoluindo.
+</p>
