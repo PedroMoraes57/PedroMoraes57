@@ -61,6 +61,25 @@ Gosto de criar soluções organizadas, funcionais e escaláveis, sempre buscando
 
 # 📌 Projetos em Destaque
 
+## 🤟 Signalive - Tradução de Libras em Tempo Real *(Em Produção)*
+Plataforma web com Inteligência Artificial capaz de realizar tradução de Libras em tempo real, buscando promover acessibilidade e comunicação através da tecnologia.
+
+### 🔧 Tecnologias:
+`Python` `Django` `React` `TypeScript` `Tailwind CSS` `Machine Learning` `Computer Vision` `IA` `APIs`
+
+🚀 Projeto atualmente em produção e em constante evolução.
+
+---
+## 🍃 ReuseAI - Sustentabilidade
+Aplicação web com inteligência artificial para detectar o descarte corretos de objetos.
+
+### 🔧 Tecnologias:
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` `TypeScript` `React` `Tailwind CSS` `Machine Learning` `APIs`
+
+🔗 https://github.com/PedroMoraes57/Reuse-Ai
+
+
+---
 
 ## 📄 D.O.C - Digitalização, Organização e Classificação de Documentos
 Sistema web em Django para digitalização, organização e classificação de documentos com OCR e Inteligência Artificial.
@@ -70,15 +89,6 @@ Sistema web em Django para digitalização, organização e classificação de d
 
 🔗 https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-
 
----
-
-## 🍃 ReuseAI - Sustentabilidade
-Aplicação web com inteligência artificial para detectar o descarte corretos de objetos.
-
-### 🔧 Tecnologias:
-`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript` `TypeScript` `React` `Tailwind CSS` `Machine Learning` `APIs`
-
-🔗 https://github.com/PedroMoraes57/Reuse-Ai
 
 ---
 ## 🌍 Conectando o Mundo - APIs
