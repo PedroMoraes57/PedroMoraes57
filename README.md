@@ -33,7 +33,7 @@ desenvolvedor:
   nome:      "Pedro Henrique Ferreira Moraes"
   funcao:    "Full-Stack Developer"
   local:     "Brasil"
-  foco:      ["Backend robusto", "Interfaces modernas", "IA aplicada"]
+  foco:      ["Back-end ", "Front-end", "Interfaces modernas"]
   filosofia: "Código organizado, funcional e escalável"
   status:    "Aberto a novos desafios"
 ```
