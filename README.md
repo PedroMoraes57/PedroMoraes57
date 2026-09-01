@@ -1,179 +1,211 @@
 <div align="center">
 
-# Pedro Henrique Ferreira Moraes
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1F6FEB,70:7B2FFF,100:00D9FF&height=200&section=header&text=PEDRO%20HENRIQUE&fontSize=52&fontColor=FFFFFF&fontAlignY=32&desc=%E2%9C%A6%20FULL-STACK%20DEVELOPER%20%E2%9C%A6&descSize=18&descAlignY=53&animation=fadeIn" width="100%" />
 
-### Desenvolvedor Web Full-Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+BOOT+SEQUENCE+INITIALIZED...;%3E+CARREGANDO+M%C3%93DULOS+.+.+.+%5B+OK+%5D;%3E+CONECTANDO+AO+SERVIDOR+.+.+.+%5B+OK+%5D;%3E+USER%3A+PEDRO_HENRIQUE+%7C%7C+STATUS%3A+ONLINE" alt="Boot Sequence" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%7C+Django+%7C+React;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+<br>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7B2FFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web+Full-Stack;Python+%7C+Django+%7C+PHP+%7C+React;Intelig%C3%AAncia+Artificial+%26+Vis%C3%A3o+Computacional;Always+learning%2C+always+building..." alt="Typing SVG" />
 
-<div align="center">
+<br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroferreira5711@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-moraes-31526233a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroMoraes57)
+<img src="https://komarev.com/ghpvc/?username=PedroMoraes57&style=for-the-badge&color=1F6FEB&label=VISITANTES" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
 
-## Sobre Mim
+## `01` ▸ CONTATO
 
-Sou **Pedro Henrique**, desenvolvedor apaixonado por tecnologia, atuando tanto no **frontend** quanto no **backend**. Combino desenvolvimento web moderno com soluções de **Inteligência Artificial**, criando aplicações que fazem a diferença.
+Aberto a novas oportunidades, projetos e colaborações. Fique à vontade para chamar:
 
-- Atualmente desenvolvendo o **Signalive** — plataforma de tradução de Libras em tempo real com IA
-- Sempre buscando evoluir e aprender novas tecnologias
-- Foco em criar soluções **organizadas, funcionais e escaláveis**
+<a href="mailto:pedroferreira5711@gmail.com"><img src="https://img.shields.io/badge/Gmail-7B2FFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/pedro-moraes-31526233a/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyeiIvPjwvc3ZnPg%3D%3D" /></a>
+<a href="https://github.com/PedroMoraes57"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
 
-## Formação
+## `02` ▸ SOBRE MIM
 
-<table>
+```yaml
+desenvolvedor:
+  nome:      "Pedro Henrique Ferreira Moraes"
+  funcao:    "Full-Stack Developer"
+  local:     "Brasil"
+  foco:      ["Backend robusto", "Interfaces modernas", "IA aplicada"]
+  filosofia: "Código organizado, funcional e escalável"
+  status:    "Aberto a novos desafios"
+```
+
+> Desenvolvedor apaixonado por tecnologia, atuando tanto no **frontend** quanto no **backend**. Combino desenvolvimento web moderno com soluções de **Inteligência Artificial**, criando aplicações que fazem a diferença.
+
+- ⚡ Atualmente desenvolvendo o **Signalive** — plataforma de tradução de Libras em tempo real com IA
+- 🧠 Trabalhando com **PHP, PostgreSQL, React e Bootstrap** no dia a dia profissional
+- 🚀 Sempre buscando evoluir e aprender novas tecnologias
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
+
+## `03` ▸ FORMAÇÃO
+
+<table width="100%">
   <tr>
-    <td><strong>Análise e Desenvolvimento de Sistemas</strong> — SENAI</td>
-    <td><img src="https://img.shields.io/badge/Concluído-2ea44f?style=flat-square" /></td>
+    <td width="60%"><b>Análise e Desenvolvimento de Sistemas</b><br><sub>SENAI</sub></td>
+    <td align="right"><img src="https://img.shields.io/badge/CONCLUÍDO-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" /></td>
   </tr>
   <tr>
-    <td><strong>Java Fundamentals - Oracle </strong> — SENAI</td>
-    <td><img src="https://img.shields.io/badge/Concluído-2ea44f?style=flat-square" /></td>
+    <td><b>Java Fundamentals — Oracle</b><br><sub>SENAI</sub></td>
+    <td align="right"><img src="https://img.shields.io/badge/CONCLUÍDO-0D1117?style=for-the-badge&labelColor=0D1117&color=1F6FEB" /></td>
   </tr>
   <tr>
-    <td><strong>Ciência da Computação</strong> — UNIP</td>
-    <td><img src="https://img.shields.io/badge/Cursando-0075ca?style=flat-square" /></td>
+    <td><b>Ciência da Computação</b><br><sub>UNIP</sub></td>
+    <td align="right"><img src="https://img.shields.io/badge/CURSANDO-0D1117?style=for-the-badge&labelColor=0D1117&color=7B2FFF" /></td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
 
-## Stack Tecnológica
+## `04` ▸ STACK TECNOLÓGICA
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### ◤ FRONTEND ◢
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwindcss,bootstrap&perline=7" height="55" />
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+#### ◤ BACKEND ◢
 
-### Ferramentas
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,django,php,nodejs&perline=7" height="55" />
 
-### Estudando
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+#### ◤ BANCO DE DADOS ◢
 
----
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite&perline=7" height="55" />
 
-## Projetos em Destaque
+#### ◤ IA & DADOS ◢
 
-### 🤟 Signalive — Tradução de Libras em Tempo Real
-![Em Produção](https://img.shields.io/badge/Status-Em%20Produção-blueviolet?style=flat-square)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,gemini,huggingface&perline=7" height="55" />
+<img src="assets/ocr.svg" height="55" />
 
-> Plataforma web com **Inteligência Artificial** capaz de realizar tradução de **Libras em tempo real**, promovendo acessibilidade e comunicação inclusiva através da tecnologia.
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=0D1117)
+![Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=0D1117)
+![NLP](https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0D1117)
+![OCR](https://img.shields.io/badge/OCR-0D1117?style=for-the-badge&logo=googlelens&logoColor=00D9FF&labelColor=0D1117)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CV](https://img.shields.io/badge/Computer_Vision-27338e?style=flat-square&logo=opencv&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
 
----
+## `05` ▸ FERRAMENTAS
 
-### 🍃 ReuseAI — Sustentabilidade Inteligente
-![Concluído](https://img.shields.io/badge/Status-Concluído-2ea44f?style=flat-square)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,pycharm,insomnia&perline=7" height="55" />
 
-> Aplicação web com **IA** para detectar e orientar o descarte correto de objetos, contribuindo para um futuro mais sustentável.
+#### ◤ ESTUDANDO ATUALMENTE ◢
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" height="55" />
 
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/PedroMoraes57/Reuse-Ai)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
 
----
+## `06` ▸ PROJETOS EM DESTAQUE
 
-### 📄 D.O.C — Digitalização, Organização e Classificação
-![Concluído](https://img.shields.io/badge/Status-Concluído-2ea44f?style=flat-square)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> Sistema web em Django para **digitalização, organização e classificação de documentos** com OCR e Inteligência Artificial, integrando NLP e a Gemini API.
+### 🤟 SIGNALIVE
+![Status](https://img.shields.io/badge/STATUS-EM_PRODUÇÃO-0D1117?style=flat-square&labelColor=0D1117&color=7B2FFF)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-555555?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-555555?style=flat-square)
+Plataforma web com **Inteligência Artificial** capaz de realizar tradução de **Libras em tempo real**, promovendo acessibilidade e comunicação inclusiva através da tecnologia.
 
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-)
+`Python` `Django` `React` `TypeScript` `Tailwind` `Computer Vision`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌍 Conectando o Mundo — APIs
-![Concluído](https://img.shields.io/badge/Status-Concluído-2ea44f?style=flat-square)
+### 🍃 REUSE AI
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB)
 
-> Aplicação web integrando a **API Countries** para buscar informações detalhadas sobre todos os países do mundo.
+Aplicação web com **IA** para detectar e orientar o descarte correto de objetos, contribuindo para um futuro mais sustentável.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+`Python` `Django` `React` `TypeScript` `Tailwind` `SQLite`
 
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/PedroMoraes57/Integra-o-API-Paises-e-API-REST)
+<a href="https://github.com/PedroMoraes57/Reuse-Ai"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📱 SENAI AGILE — PWA
-![Concluído](https://img.shields.io/badge/Status-Concluído-2ea44f?style=flat-square)
+### 📄 D.O.C
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB)
 
-> **Progressive Web App** desenvolvido com Django, com suporte offline e experiência nativa de aplicativo diretamente no navegador.
+Sistema web em Django para **digitalização, organização e classificação de documentos** com OCR e Inteligência Artificial, integrando NLP e a Gemini API.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+`Python` `Django` `MySQL` `JavaScript` `Gemini API` `OCR` `NLP`
 
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/PedroMoraes57/SENAI-AGILE)
+<a href="https://github.com/PedroMoraes57/D.O.C---Digitaliza-o-Classifica-o-e-Organiza-o-"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏭 CRUD de Máquinas SENAI
-![Concluído](https://img.shields.io/badge/Status-Concluído-2ea44f?style=flat-square)
+### 🌍 CONECTANDO O MUNDO
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB)
 
-> Aplicação web para **gerenciamento de colaboradores e máquinas** vinculadas, com interface limpa e funcional.
+Aplicação web integrando a **API Countries** para buscar informações detalhadas sobre todos os países do mundo.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+`Python` `Django` `SQLite` `JavaScript` `REST API`
 
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/PedroMoraes57/DJMaquinas)
+<a href="https://github.com/PedroMoraes57/Integra-o-API-Paises-e-API-REST"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 SENAI AGILE
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB)
+
+**Progressive Web App** desenvolvido com Django, com suporte offline e experiência nativa de aplicativo diretamente no navegador.
+
+`Python` `Django` `SQLite` `JavaScript` `PWA`
+
+<a href="https://github.com/PedroMoraes57/SENAI-AGILE"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 CRUD DE MÁQUINAS
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB)
+
+Aplicação web para **gerenciamento de colaboradores e máquinas** vinculadas, com interface limpa e funcional.
+
+`Python` `Django` `SQLite`
+
+<a href="https://github.com/PedroMoraes57/DJMaquinas"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
+
+## `07` ▸ GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PedroMoraes57/PedroMoraes57/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img width="91%" src="https://streak-stats.demolab.com?user=PedroMoraes57&hide_border=true&background=0D1117&border=0D1117&stroke=1F6FEB&ring=00D9FF&fire=7B2FFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10" />
 
-*Sempre aprendendo, construindo e evoluindo.*
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
+
+## `08` ▸ CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PedroMoraes57/PedroMoraes57/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7B2FFF&center=true&vCenter=true&width=600&lines=%3E+Sempre+aprendendo%2C+construindo+e+evoluindo.;%3E+Obrigado+pela+visita!+_" alt="Footer Typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,30:7B2FFF,60:1F6FEB,100:0D1117&height=140&section=footer" width="100%" />
 
 </div>
