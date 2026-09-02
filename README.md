@@ -10,8 +10,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=PedroMoraes57&style=for-the-badge&color=1F6FEB&label=VISITANTES" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1F6FEB,100:7B2FFF&height=3&section=header" width="100%" />
